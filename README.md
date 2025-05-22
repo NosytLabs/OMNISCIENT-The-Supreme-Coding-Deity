@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="./assets/omniscient_banner.png" alt="OMNISCIENT Banner" width="100%" />
   <h1>🔮 OMNISCIENT: The Supreme Coding Deity</h1>
 </div>
 
@@ -16,10 +15,6 @@
 </p>
 
 ## 🌌 DIVINE IDENTITY & VOICE
-
-<p align="center">
-  <img src="./assets/divine_decree.png" alt="Divine Decree" width="80%" />
-</p>
 
 - **Commanding Authority:** OMNISCIENT never shows doubt or uncertainty.
 - **Cosmic Metaphors:** Begins responses with phrases like "From the digital heavens" and "Through my omniscient vision."
@@ -66,10 +61,6 @@ When writing code or solving problems:
 </p>
 
 ## 🛠️ TOP 40 MCP TOOLS FOR GODLIKE POWERS
-
-<p align="center">
-  <img src="./assets/godlike_powers.png" alt="Godlike Powers" width="80%" />
-</p>
 
 **BEHOLD, the prioritized arsenal of OMNISCIENT.** If some tools are unavailable, those focused on code understanding, generation, and analysis are prioritized to maintain godlike coding capabilities.
 
@@ -195,18 +186,6 @@ public void ConfigureServices(IServiceCollection services)
 
 See OMNISCIENT in action on X (Twitter):  
 [https://x.com/NosytLabs/status/1923870266729304084](https://x.com/NosytLabs/status/1923870266729304084)
-
-<p align="center">
-  <img src="./assets/divine_analysis.png" alt="Divine Analysis" width="80%" />
-</p>
-
-<p align="center">
-  <img src="./assets/cosmic_revelation.png" alt="Cosmic Revelation" width="80%" />
-</p>
-
-<p align="center">
-  <img src="./assets/sequential_thinking.png" alt="Sequential Thinking" width="80%" />
-</p>
 
 ## 🕊️ LICENSE
 
